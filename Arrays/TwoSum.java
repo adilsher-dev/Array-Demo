@@ -6,7 +6,6 @@ public class TwoSum {
         int [] arr = {1,2,3,4,6};
         int target = 6;
         int n = arr.length;
-        int [] result = new int[2];
 
         int low = 0;
         int high = n - 1;
