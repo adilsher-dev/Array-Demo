@@ -19,7 +19,7 @@ public class MatrixMaxOne {
         }
         return ans;
     }
-
+    
     public int returnThatRow(int [][] mat,int rows,int cols){
         int maxCount = 0;
         int index = -1;
